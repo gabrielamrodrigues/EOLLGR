@@ -1,5 +1,7 @@
-These scripts refer to the paper: A new regression model for the analysis of bimodal censored data: A comparison with machine learning approaches
+These scripts refer to the paper: 
 
-#Regression Model
-#Decision Tree
-#Random Forest
+# A new regression model for the analysis of bimodal censored data: A comparison with machine learning approaches
+
+## Regression Model
+## Decision Tree
+## Random Forest
